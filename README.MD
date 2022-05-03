@@ -2,7 +2,11 @@
 # Bem vindo ao curso Github
 Neste Custo vamos aprender tudo de **git Hub** _do zero ao profissional_
 
+**Ultimas Updates**
 
+- [x] Site Responsivo.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
 
 ## Estudando Markdown - Modulos
 * Começando com Git
