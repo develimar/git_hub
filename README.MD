@@ -28,3 +28,18 @@ Neste Custo vamos aprender tudo de **git Hub** _do zero ao profissional_
 >Este é um blockquode, usado para destacar alguma area
 >
 >Segunda area destacada
+
+**Comando para rodar projeto**
+```js
+function showName(){
+    return'Bem vindo: '+name
+}
+```
+
+**Comando para rodar projeto tipo html**
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+</h1>
+```
