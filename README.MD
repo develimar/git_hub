@@ -33,7 +33,7 @@ Neste Custo vamos aprender tudo de **git Hub** _do zero ao profissional_
 >
 >Segunda area destacada
 
-**Comando para rodar projeto**
+###Comando para rodar projeto###
 ```js
 function showName(){
     return'Bem vindo: '+name
