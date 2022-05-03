@@ -1,8 +1,9 @@
 ![Logo do Git](https://git-scm.com/images/logos/logomark-orange@2x.png)
 
-[Bem vindo](#bem-vindo-ao-curso-github)
-[Modulos](#estudando-markdown---modulos)
-[Rede Social](#rede-social)
+[Bem vindo](#bem-vindo-ao-curso-github) |
+[Modulos](#estudando-markdown---modulos) |
+[Rede Social](#rede-social) |
+[Comandos](#comando-para-rodar-projeto)
 
 # Bem vindo ao curso Github
 Neste Custo vamos aprender tudo de **git Hub** _do zero ao profissional_
