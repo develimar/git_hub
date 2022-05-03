@@ -47,3 +47,11 @@ function showName(){
     <span>Curso Git</span>
 </h1>
 ```
+
+Propriedade | Descrição
+----------- | ---------
+Nome | Informar o nome do Usuario
+size | Informar o tamnho do campo
+Background | Cor de fundo da area de Hex
+OnPress | Função chamada quando clicar no botão
+
