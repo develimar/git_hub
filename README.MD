@@ -1,9 +1,9 @@
 # Bem vindo ao cuso Github
-Neste Custo vamos aprender tudo de git Hub
+Neste Custo vamos aprender tudo de **git Hub** _do zero ao profissional_
 
 
 
 ## Estudando Markdown - Modulos
-Entendendo o que é git
-Aprendendo sobre repositorios
-Trabalhando com Branches
+_Entendendo o que é **git**
+Aprendendo sobre **repositorios**
+Trabalhando com **Branches**_
