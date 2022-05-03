@@ -12,6 +12,8 @@ Neste Custo vamos aprender tudo de **git Hub** _do zero ao profissional_
 
 
 1. Começando com GIT
+   1. O que é git?
+   2. Instalando git na Maquina
 2. Aprendendo sobre branches
 3. GIT Avançado
 4. Usando GitHub de forma Profissional
