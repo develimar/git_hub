@@ -5,9 +5,10 @@ Neste Custo vamos aprender tudo de **git Hub** _do zero ao profissional_
 
 
 ## Estudando Markdown - Modulos
-_Entendendo o que é **git**
-Aprendendo sobre **repositorios**
-Trabalhando com **Branches**_
+* Começando com Git
+* Aprendendo sobre branches
+* GIT Avançado
+* Usando Github de forma profissional.
 
 
 ### Rede Social
